@@ -1,6 +1,7 @@
 - 👋 olá, eu sou o @LucasRosas
-- 👀 Estou interessado em prograamção web, ferramentas digitais de aprendizagem, educação, edição de vídeos e matemática.
+- 👀 Estou interessado em prograamção web, ferramentas digitais de aprendizagem, educação, edição de vídeos e matemática
 - 🌱 Atualmente estou aprendendo Angular e Elixir
-- 💞️ Estou buscando colaborar com a educação brasileira por meio do meu canal no YouTube.
+- 👨🏾‍💻 Já desenvolvi projetos em C, Arduino, Python, VBA e Javascript
+- 😍 Mas desenvolvo mais e gosto mesmo é de Javascipt 
+- 💞️ Estou buscando colaborar com a educação brasileira por meio do meu canal no YouTube. Dê uma olhada!
 - 📫 Se você quiser falar comigo, me manda um e-mail: lucasrosas@outlook.com
-
