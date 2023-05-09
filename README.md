@@ -1,2 +1,1 @@
 - 👋 Olá, eu sou o @LucasRosas.
-- 📫 Se você quiser falar comigo, me manda um e-mail: lucasrosas@outlook.com
