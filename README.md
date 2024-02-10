@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 </br>
+</br>
 <div>Algumas estatísticas: </div>
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=lucasRosas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="stats" height="150em" style="outline: 1px solid white; border-radius: 5px; outline-offset:-1px" />
