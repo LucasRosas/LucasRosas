@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou o @LucasRosas.
+## 👋 Olá, eu sou o @LucasRosas
 
 - Desenvolvo Front-End
 - Trabalho principalmente com Vue.js
@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/lucasRosas/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-## Tecnologias
+## Tecnologias:
 
 <div align="left">
   <img src="https://img.shields.io/badge/Javascript-darkorange?style=flat-square&logo=JavaScript&logoColor=white"/>
