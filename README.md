@@ -20,6 +20,7 @@
  </br>
   <img src="https://img.shields.io/badge/Node.js-darkgreen?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-yellow?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-lightblue?style=flat-square&logo=docker&logoColor=blue"/>
    </br>
      <img src="https://img.shields.io/badge/Jira-blue?style=flat-square&logo=jira&logoColor=white"/>
      <img src="https://img.shields.io/badge/Bitbucket-darkblue?style=flat-square&logo=bitbucket&logoColor=white"/>
