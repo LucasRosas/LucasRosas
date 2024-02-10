@@ -7,24 +7,24 @@
 ## Encontre-me:
 
 <a href="https://www.linkedin.com/in/lucasRosas/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ## Tecnologias:
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Javascript-gray?style=flat-square&logo=JavaScript"/>
-  <img src="https://img.shields.io/badge/Vue.js-gray?style=flat-square&logo=vuedotjs"/>
-  <img src="https://img.shields.io/badge/HTML-gray?style=flat-square&logo=HTML5"/>
-  <img src="https://img.shields.io/badge/css-gray?style=flat-square&logo=CSS3&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/sass-gray?style=flat-square&logo=sass"/>
+  <img src="https://img.shields.io/badge/Javascript-gray?style=flate&logo=JavaScript"/>
+  <img src="https://img.shields.io/badge/Vue.js-gray?style=flat&logo=vuedotjs"/>
+  <img src="https://img.shields.io/badge/HTML-gray?style=flat&logo=HTML5"/>
+  <img src="https://img.shields.io/badge/css-gray?style=flat&logo=CSS3&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/sass-gray?style=flat&logo=sass"/>
   </br>
-  <img src="https://img.shields.io/badge/Jira-gray?style=flat-square&logo=jira&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Bitbucket-gray?style=flat-square&logo=bitbucket&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Node.js-gray?style=flat-square&logo=nodedotjs"/>
-  <img src="https://img.shields.io/badge/Django-gray?style=flat-square&logo=django&logoColor=darkgreen"/>
+  <img src="https://img.shields.io/badge/Jira-gray?style=flat&logo=jira&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Bitbucket-gray?style=flat&logo=bitbucket&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Node.js-gray?style=flat&logo=nodedotjs"/>
+  <img src="https://img.shields.io/badge/Django-gray?style=flat&logo=django&logoColor=green"/>
   </br>
-  <img src="https://img.shields.io/badge/Docker-gray?style=flat-square&logo=docker"/>
-  <img src="https://img.shields.io/badge/Capacitor-gray?style=flat-square&logo=capacitor"/>
+  <img src="https://img.shields.io/badge/Docker-gray?style=flat&logo=docker"/>
+  <img src="https://img.shields.io/badge/Capacitor-gray?style=flat&logo=capacitor"/>
 </div>
 
 ## Algumas estatísticas:
