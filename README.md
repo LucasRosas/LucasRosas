@@ -12,19 +12,19 @@
 ## Tecnologias:
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Javascript-black?style=flat-square&logo=JavaScript"/>
-  <img src="https://img.shields.io/badge/Vue.js-black?style=flat-square&logo=vuedotjs"/>
-  <img src="https://img.shields.io/badge/HTML-black?style=flat-square&logo=HTML5"/>
-  <img src="https://img.shields.io/badge/css-black?style=flat-square&logo=CSS3&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/sass-black?style=flat-square&logo=sass"/>
+  <img src="https://img.shields.io/badge/Javascript-gray?style=flat-square&logo=JavaScript"/>
+  <img src="https://img.shields.io/badge/Vue.js-gray?style=flat-square&logo=vuedotjs"/>
+  <img src="https://img.shields.io/badge/HTML-gray?style=flat-square&logo=HTML5"/>
+  <img src="https://img.shields.io/badge/css-gray?style=flat-square&logo=CSS3&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/sass-gray?style=flat-square&logo=sass"/>
   </br>
-  <img src="https://img.shields.io/badge/Jira-black?style=flat-square&logo=jira&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Bitbucket-black?style=flat-square&logo=bitbucket&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs"/>
-  <img src="https://img.shields.io/badge/Django-black?style=flat-square&logo=django&logoColor=darkgreen"/>
+  <img src="https://img.shields.io/badge/Jira-gray?style=flat-square&logo=jira&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Bitbucket-gray?style=flat-square&logo=bitbucket&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Node.js-gray?style=flat-square&logo=nodedotjs"/>
+  <img src="https://img.shields.io/badge/Django-gray?style=flat-square&logo=django&logoColor=darkgreen"/>
   </br>
-  <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker"/>
-  <img src="https://img.shields.io/badge/Capacitor-black?style=flat-square&logo=capacitor"/>
+  <img src="https://img.shields.io/badge/Docker-gray?style=flat-square&logo=docker"/>
+  <img src="https://img.shields.io/badge/Capacitor-gray?style=flat-square&logo=capacitor"/>
 </div>
 
 ## Algumas estatísticas:
