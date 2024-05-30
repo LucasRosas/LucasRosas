@@ -2,7 +2,7 @@
 
 - Desenvolvo Front-End
 - Trabalho principalmente com Vue.js
-- Estudando Python, Django, Node.js
+- Estudando Swift, Python, Django, Node.js
 
 ## Encontre-me:
 
